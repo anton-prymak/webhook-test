@@ -1,6 +1,5 @@
 # webhook-test
- This is repo for webhook testing
-New commit by Thorgeir
+This is repo for webhook testing
 New
 Another new
 And finally
